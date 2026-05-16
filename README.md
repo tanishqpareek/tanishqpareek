@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hey, I'm Tanishq 👋
 
-<!--
-**tanishqpareek/tanishqpareek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science enthusiast from Jaipur, Rajasthan.
+Currently learning and building projects around ML and NLP.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+Python · LangChain · FAISS · Machine Learning · NLP · FastAPI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- **[YT RAG Chatbot](https://github.com/tanishqpareek/yt-rag-chatbot)** — 
+  AI chatbot that answers questions about any YouTube video using RAG + Gemini
+
+## 📫 Connect
+- LinkedIn: [Tanishq Pareek](https://www.linkedin.com/in/tanishq-pareek-8ba80128b/)
+- Email: tanishqpareek@gmail.com
